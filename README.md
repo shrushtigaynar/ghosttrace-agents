@@ -98,30 +98,6 @@ Produces:
 
 ---
 
-## ⚔️ Devil's Advocate
-
-Challenges conclusions from other agents.
-
-Produces:
-
-- Contradictions
-- Alternative explanations
-- Investigation debates
-- Confidence analysis
-
----
-
-## 🩹 Recovery Commander
-
-Generates:
-
-- Recovery roadmap
-- Prioritized fixes
-- Refactoring strategy
-- Long-term prevention plans
-
----
-
 # 🏗 System Architecture
 
 ```mermaid
@@ -352,11 +328,4 @@ http://localhost:3000
 GhostTrace transforms software maintenance from debugging code into investigating software history.
 
 Instead of simply reporting defects, it reconstructs the engineering story behind a system, predicts future risks, and provides a roadmap for recovery.
-
-## Tagline
-
-> **Every broken codebase leaves clues. GhostTrace finds them.** 👻🔍
-
-## One-Line Pitch
-
-> GhostTrace is an AI-powered software investigation room that reconstructs the story behind architectural decay, technical debt, and engineering failures to help teams understand why a codebase became difficult to maintain and what should be done next.
+teams understand why a codebase became difficult to maintain and what should be done next.
